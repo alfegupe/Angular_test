@@ -1,4 +1,4 @@
-# LendingFront Test
+# AngularJs basic app
 WebApp for query API usign JSONP method.
 
 ## Installation
