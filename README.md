@@ -11,7 +11,7 @@ From a window of terminal run:
 1. `npm install`
 2. `npm start`
 
-This small app use:
+## This small app use:
 
 * AngularJs.
 * Gulp.
